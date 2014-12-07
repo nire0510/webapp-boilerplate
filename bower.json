@@ -1,0 +1,29 @@
+{
+  "name": "h5b",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nire0510/h5b",
+  "description": "HTML-5 web application boilerplate project, compatible with all major browsers",
+  "keywords": [
+    "html",
+    "boilerplate",
+    "template",
+    "web",
+    "website",
+    "web",
+    "app"
+  ],
+  "authors": [
+    "Nir Elbaz"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.2"
+  }
+}

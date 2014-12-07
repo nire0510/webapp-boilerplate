@@ -1,0 +1,28 @@
+{
+  "name": "h5b",
+  "version": "1.0.0",
+  "description": "HTML-5 web application boilerplate project, compatible with all major browsers",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nire0510/h5b"
+  },
+  "keywords": [
+    "html",
+    "boilerplate",
+    "template",
+    "web",
+    "website",
+    "web",
+    "app"
+  ],
+  "author": "Nir Elbaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nire0510/h5b/issues"
+  },
+  "homepage": "https://github.com/nire0510/h5b"
+}
