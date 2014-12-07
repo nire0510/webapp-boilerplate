@@ -1,7 +1,7 @@
 {
   "name": "h5b",
   "version": "1.0.0",
-  "description": "HTML-5 web application boilerplate project, compatible with all major browsers",
+  "description": "HTML-5 web application boilerplate project, compatible with all major browsers & IE >= 10",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
