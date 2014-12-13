@@ -1,8 +1,8 @@
 {
-  "name": "h5b",
+  "name": "webapp-boilerplate",
   "version": "1.0.0",
   "homepage": "https://github.com/nire0510/h5b",
-  "description": "HTML-5 web application boilerplate project, compatible with all major browsers & IE >= 10",
+  "description": "Web application boilerplate project, compatible with all major browsers & IE >= 10",
   "keywords": [
     "html",
     "boilerplate",
